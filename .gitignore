@@ -2,3 +2,4 @@
 !/public/
 !.gitignore
 !readme.md
+!package.json

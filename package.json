@@ -1,0 +1,24 @@
+{
+  "name": "bb-test-2",
+  "version": "1.0.0",
+  "description": ":)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meh",
+    "ahg"
+  ],
+  "author": {
+    "name": "Andrei Gheorghiu",
+    "email": "arhicub@gmail.com",
+    "url": "https://github.com/andrei-gheorghiu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrei-gheorghiu/bb-test-2.git"
+  },
+  "license": "ISC",
+  "dependencies": {}
+}
